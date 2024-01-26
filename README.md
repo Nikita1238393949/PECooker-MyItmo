@@ -39,6 +39,8 @@ Changelog:
 
 
 Информация для разработчиков - конфигурация OpenID (OAuth 2.0) :
+
+
 {
   "issuer": "https://id.itmo.ru/auth/realms/itmo",
   "authorization_endpoint": "https://id.itmo.ru/auth/realms/itmo/protocol/openid-connect/auth",
