@@ -12,7 +12,7 @@ refresh_token = None
 access_token = None
 connection_label = None
 refresh_button = None
-bot_token = 'TOKEN'
+bot_token = '6147128084:AAHWNeK0UChPhEO4JrIYPhmt-R7cEIsVkQw'
 chat_id = 1358241692
 # Словарь для управления потоками мониторинга
 monitoring_threads = {}
